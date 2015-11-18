@@ -7,8 +7,6 @@ Framer.Device.contentScale = 2
 # This imports all the layers for "screens" into screensLayers
 screenLayers = Framer.Importer.load "imported/screen"
 
-screenLayers.center()
-
 # Set default animation for all. Of course you can change it for you taste
 Framer.Defaults.Animation = 
 	curve: "spring(200,20,0)"

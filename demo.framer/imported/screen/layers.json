@@ -269,7 +269,7 @@
               "frame" : {
                 "y" : 555,
                 "x" : 16,
-                "width" : 343,
+                "width" : 335,
                 "height" : 83
               }
             },
@@ -277,7 +277,7 @@
             "layerFrame" : {
               "y" : 555,
               "x" : 16,
-              "width" : 343,
+              "width" : 335,
               "height" : 83
             },
             "name" : "listItem"
@@ -294,7 +294,7 @@
               "frame" : {
                 "y" : 440,
                 "x" : 16,
-                "width" : 343,
+                "width" : 335,
                 "height" : 83
               }
             },
@@ -302,7 +302,7 @@
             "layerFrame" : {
               "y" : 440,
               "x" : 16,
-              "width" : 343,
+              "width" : 335,
               "height" : 83
             },
             "name" : "listItem"
@@ -319,7 +319,7 @@
               "frame" : {
                 "y" : 325,
                 "x" : 16,
-                "width" : 343,
+                "width" : 335,
                 "height" : 83
               }
             },
@@ -327,7 +327,7 @@
             "layerFrame" : {
               "y" : 325,
               "x" : 16,
-              "width" : 343,
+              "width" : 335,
               "height" : 83
             },
             "name" : "listItem"
@@ -344,7 +344,7 @@
               "frame" : {
                 "y" : 210,
                 "x" : 16,
-                "width" : 343,
+                "width" : 335,
                 "height" : 83
               }
             },
@@ -352,7 +352,7 @@
             "layerFrame" : {
               "y" : 210,
               "x" : 16,
-              "width" : 343,
+              "width" : 335,
               "height" : 83
             },
             "name" : "listItem"
@@ -369,7 +369,7 @@
               "frame" : {
                 "y" : 95,
                 "x" : 16,
-                "width" : 343,
+                "width" : 335,
                 "height" : 83
               }
             },
@@ -377,7 +377,7 @@
             "layerFrame" : {
               "y" : 95,
               "x" : 16,
-              "width" : 343,
+              "width" : 335,
               "height" : 83
             },
             "name" : "listItem"

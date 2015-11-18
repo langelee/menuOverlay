@@ -270,7 +270,7 @@ window.__imported__["screen/layers.json.js"] = [
               "frame" : {
                 "y" : 555,
                 "x" : 16,
-                "width" : 343,
+                "width" : 335,
                 "height" : 83
               }
             },
@@ -278,7 +278,7 @@ window.__imported__["screen/layers.json.js"] = [
             "layerFrame" : {
               "y" : 555,
               "x" : 16,
-              "width" : 343,
+              "width" : 335,
               "height" : 83
             },
             "name" : "listItem"
@@ -295,7 +295,7 @@ window.__imported__["screen/layers.json.js"] = [
               "frame" : {
                 "y" : 440,
                 "x" : 16,
-                "width" : 343,
+                "width" : 335,
                 "height" : 83
               }
             },
@@ -303,7 +303,7 @@ window.__imported__["screen/layers.json.js"] = [
             "layerFrame" : {
               "y" : 440,
               "x" : 16,
-              "width" : 343,
+              "width" : 335,
               "height" : 83
             },
             "name" : "listItem"
@@ -320,7 +320,7 @@ window.__imported__["screen/layers.json.js"] = [
               "frame" : {
                 "y" : 325,
                 "x" : 16,
-                "width" : 343,
+                "width" : 335,
                 "height" : 83
               }
             },
@@ -328,7 +328,7 @@ window.__imported__["screen/layers.json.js"] = [
             "layerFrame" : {
               "y" : 325,
               "x" : 16,
-              "width" : 343,
+              "width" : 335,
               "height" : 83
             },
             "name" : "listItem"
@@ -345,7 +345,7 @@ window.__imported__["screen/layers.json.js"] = [
               "frame" : {
                 "y" : 210,
                 "x" : 16,
-                "width" : 343,
+                "width" : 335,
                 "height" : 83
               }
             },
@@ -353,7 +353,7 @@ window.__imported__["screen/layers.json.js"] = [
             "layerFrame" : {
               "y" : 210,
               "x" : 16,
-              "width" : 343,
+              "width" : 335,
               "height" : 83
             },
             "name" : "listItem"
@@ -370,7 +370,7 @@ window.__imported__["screen/layers.json.js"] = [
               "frame" : {
                 "y" : 95,
                 "x" : 16,
-                "width" : 343,
+                "width" : 335,
                 "height" : 83
               }
             },
@@ -378,7 +378,7 @@ window.__imported__["screen/layers.json.js"] = [
             "layerFrame" : {
               "y" : 95,
               "x" : 16,
-              "width" : 343,
+              "width" : 335,
               "height" : 83
             },
             "name" : "listItem"
